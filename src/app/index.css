@@ -1,0 +1,6 @@
+.main {
+    background-color: rgb(190, 238, 255);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
